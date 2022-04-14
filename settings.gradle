@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "My Application"
+rootProject.name = "Android-GithubPackages"
 include ':app'
 include ':lib'
