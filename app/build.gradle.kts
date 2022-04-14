@@ -35,7 +35,8 @@ android {
 }
 
 dependencies {
-    implementation(project(":lib"))
+//    implementation(project(":lib"))
+    implementation("io.github.shinhyo:lib:1.0.0")
 
     implementation(Dep.AndroidX.core)
     implementation(Dep.AndroidX.appcompat)
